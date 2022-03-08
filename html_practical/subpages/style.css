@@ -1,0 +1,44 @@
+h1{
+    color: red;
+    text-align: center;
+}
+.computer p{
+    color: rgb(8, 129, 129);
+}
+
+.computer .ah2{
+    color: rgb(76, 4, 243);
+    text-align: left;
+    font-size: large;
+    font-style: time new roman;
+    text-decoration: underline;
+    text-shadow: 1px 2px 0px lightblue;
+    text-indent: 0px;
+    letter-spacing: 0px;
+}
+.function p{
+    color: rgb(95, 0, 0);
+    
+
+}
+.function h2.h2{
+    color: rgb(255, 0, 212);
+}
+.component p{
+    color: rgb(8, 146, 100);
+}
+.component .bh2{
+    color: blueviolet;
+}
+.types .typesof{
+    color: rgb(128, 78, 17);
+}
+.types .ol1{
+    color: blue;
+}
+h3{
+    color: orange;
+}
+p{
+    color: rgb(58, 11, 56);
+}
